@@ -29,7 +29,7 @@ def create_xml(tvg_ids, xml_file_path):
     root = ET.Element('channels')
     for tvg_id in tvg_ids:
         channel = ET.SubElement(root, 'channel')
-        channel.set('site', 'tvpassport.com')
+        channel.set('site', 'tv.yandex.ru')
         channel.set('lang', 'en')
         channel.set('xmltv_id', tvg_id)
         channel.set('site_id', 'CH_K')
