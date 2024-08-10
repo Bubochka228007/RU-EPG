@@ -4,6 +4,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="1Plus2.lv" site_id="CH_K">1Plus2.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="1TV.ge" site_id="CH_K">1TV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="2TV.ge" site_id="CH_K">2TV.ge</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="3ABNRussia.ru" site_id="CH_K">3ABNRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel5.ru" site_id="CH_K">Channel5.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel5.ua" site_id="CH_K">Channel5.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="5TV.am" site_id="CH_K">5TV.am</channel>
@@ -460,7 +461,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTMusic.ru" site_id="CH_K">TNTMusic.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TolkHD.ru" site_id="CH_K">TolkHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TochkaTV.ru" site_id="CH_K">TochkaTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="3ABNRussia.ru" site_id="CH_K">3ABNRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TRKAleks.ua" site_id="CH_K">TRKAleks.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TyumenskoeVremya.ru" site_id="CH_K">TyumenskoeVremya.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TUSO.ua" site_id="CH_K">TUSO.ua</channel>
