@@ -234,6 +234,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ViasatKinoAction.ua" site_id="CH_K">ViasatKinoAction.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VidusdaugavasTelevizija.lv" site_id="CH_K">VidusdaugavasTelevizija.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuExplore.ru" site_id="CH_K">vijuExplore.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuHistory.ru" site_id="CH_K">vijuHistory.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuNature.ru" site_id="CH_K">vijuNature.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000.ru" site_id="CH_K">vijuTV1000.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000action.ru" site_id="CH_K">vijuTV1000action.ru</channel>
