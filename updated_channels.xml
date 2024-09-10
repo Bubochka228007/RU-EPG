@@ -163,7 +163,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NextTV.kg" site_id="CH_K">NextTV.kg</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NickelodeonCIS.ru" site_id="CH_K">NickelodeonCIS.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NicktoonsCIS.ru" site_id="CH_K">NicktoonsCIS.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Nostalgia.ru" site_id="CH_K">Nostalgia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NovyiChannel.ua" site_id="CH_K">NovyiChannel.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Novyikhrystyianskyi.ua" site_id="CH_K">Novyikhrystyianskyi.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTN.ua" site_id="CH_K">NTN.ua</channel>
@@ -227,7 +226,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TiJi.ru" site_id="CH_K">TiJi.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TISTV.ua" site_id="CH_K">TISTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TMT.tj" site_id="CH_K">TMT.tj</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT4.ru" site_id="CH_K">TNT4.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTHD.ru" site_id="CH_K">TNTHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Toshkent.uz" site_id="CH_K">Toshkent.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TRKIldana.ua" site_id="CH_K">TRKIldana.ua</channel>
@@ -380,6 +378,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NizhniyNovgorod24.ru" site_id="CH_K">NizhniyNovgorod24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NikaTV.ru" site_id="CH_K">NikaTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Novoetelevidenie.kz" site_id="CH_K">Novoetelevidenie.kz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Nostalgia.ru" site_id="CH_K">Nostalgia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTV.ru" site_id="CH_K">NTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVMir.ru" site_id="CH_K">NTVMir.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVLaw.ru" site_id="CH_K">NTVLaw.ru</channel>
@@ -478,6 +477,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TKR.ru" site_id="CH_K">TKR.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNVPlanet.ru" site_id="CH_K">TNVPlanet.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT.ru" site_id="CH_K">TNT.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT4.ru" site_id="CH_K">TNT4.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTMusic.ru" site_id="CH_K">TNTMusic.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TolkHD.ru" site_id="CH_K">TolkHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TochkaTV.ru" site_id="CH_K">TochkaTV.ru</channel>
