@@ -219,7 +219,10 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000.ru" site_id="CH_K">vijuTV1000.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000action.ru" site_id="CH_K">vijuTV1000action.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000russkoe.ru" site_id="CH_K">vijuTV1000russkoe.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusComedy.ru" site_id="CH_K">vijuPlusComedy.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusMegahit.ru" site_id="CH_K">vijuPlusMegahit.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusPlanet.ru" site_id="CH_K">vijuPlusPlanet.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusPremiere.ru" site_id="CH_K">vijuPlusPremiere.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusSerial.ru" site_id="CH_K">vijuPlusSerial.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusSport.ru" site_id="CH_K">vijuPlusSport.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VITATV.ua" site_id="CH_K">VITATV.ua</channel>
