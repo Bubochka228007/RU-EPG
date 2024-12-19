@@ -106,6 +106,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Khatlon.tj" site_id="CH_K">Khatlon.tj</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kino24.ru" site_id="CH_K">Kino24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kokshe.kz" site_id="CH_K">Kokshe.kz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="KulinarHD.ru" site_id="CH_K">KulinarHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LatvijasSlagerkanals.lv" site_id="CH_K">LatvijasSlagerkanals.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Leomax24.ru" site_id="CH_K">Leomax24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LifeTV.ee" site_id="CH_K">LifeTV.ee</channel>
@@ -207,6 +208,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVMChannel.ru" site_id="CH_K">TVMChannel.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVN.ee" site_id="CH_K">TVN.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVNET.lv" site_id="CH_K">TVNET.lv</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TvoeTV.ru" site_id="CH_K">TvoeTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UkraineWorldNews.ua" site_id="CH_K">UkraineWorldNews.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UniverTV.ru" site_id="CH_K">UniverTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ViasatKino.ua" site_id="CH_K">ViasatKino.ua</channel>
