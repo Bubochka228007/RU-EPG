@@ -364,6 +364,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RZDTV.ru" site_id="CH_K">RZDTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RodnoeKino.ru" site_id="CH_K">RodnoeKino.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Russia1.ru" site_id="CH_K">Russia1.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Russia1Kaliningrad.ru" site_id="CH_K">Russia1Kaliningrad.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Russia24.ru" site_id="CH_K">Russia24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RussiaK.ru" site_id="CH_K">RussiaK.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RTRPlanetaAsia.ru" site_id="CH_K">RTRPlanetaAsia.ru</channel>
@@ -380,6 +381,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SvoyoTV.ru" site_id="CH_K">SvoyoTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Sever.ru" site_id="CH_K">Sever.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SK1.ua" site_id="CH_K">SK1.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Smotrim.ru" site_id="CH_K">Smotrim.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TopSecret.ru" site_id="CH_K">TopSecret.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Solnce.ru" site_id="CH_K">Solnce.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SolovyovLive.ru" site_id="CH_K">SolovyovLive.ru</channel>
