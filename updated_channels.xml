@@ -1,12 +1,10 @@
 <?xml version="1.0" ?>
 <channels>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="1Plus2.lv" site_id="CH_K">1Plus2.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="1TV.ge" site_id="CH_K">1TV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="2TV.ge" site_id="CH_K">2TV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel5.ru" site_id="CH_K">Channel5.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="5TV.am" site_id="CH_K">5TV.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="7D7.ee" site_id="CH_K">7D7.ee</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="8TV.lv" site_id="CH_K">8TV.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel8Belarus.by" site_id="CH_K">Channel8Belarus.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel11.ua" site_id="CH_K">Channel11.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel12.ru" site_id="CH_K">Channel12.ru</channel>
@@ -94,21 +92,18 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="JibekJoly.kz" site_id="CH_K">JibekJoly.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="K1.ua" site_id="CH_K">K1.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="K2.ua" site_id="CH_K">K2.ua</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Kanal7Baltics.lv" site_id="CH_K">Kanal7Baltics.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVDom.ua" site_id="CH_K">TVDom.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Khabar.kz" site_id="CH_K">Khabar.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Khatlon.tj" site_id="CH_K">Khatlon.tj</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kino24.ru" site_id="CH_K">Kino24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kokshe.kz" site_id="CH_K">Kokshe.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="KulinarHD.ru" site_id="CH_K">KulinarHD.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="LatvijasSlagerkanals.lv" site_id="CH_K">LatvijasSlagerkanals.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Leomax24.ru" site_id="CH_K">Leomax24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LifeTV.ee" site_id="CH_K">LifeTV.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LRTKlasika.lt" site_id="CH_K">LRTKlasika.lt</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LRTLituanica.lt" site_id="CH_K">LRTLituanica.lt</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LRTOpus.lt" site_id="CH_K">LRTOpus.lt</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LRTRadijas.lt" site_id="CH_K">LRTRadijas.lt</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="LTV1.lv" site_id="CH_K">LTV1.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Lugansk24.ua" site_id="CH_K">Lugansk24.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="M2.ua" site_id="CH_K">M2.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="M1.lt" site_id="CH_K">M1.lt</channel>
@@ -123,7 +118,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MovifyKino.lv" site_id="CH_K">MovifyKino.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MtavariArkhi.ge" site_id="CH_K">MtavariArkhi.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Multimania.lv" site_id="CH_K">Multimania.lv</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="MuzikasVideoKanals.lv" site_id="CH_K">MuzikasVideoKanals.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MuzzOne.kz" site_id="CH_K">MuzzOne.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Navo.uz" site_id="CH_K">Navo.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NextTV.kg" site_id="CH_K">NextTV.kg</channel>
