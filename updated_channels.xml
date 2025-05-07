@@ -52,6 +52,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="CBCSport.az" site_id="CH_K">CBCSport.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel7Ukraine.ua" site_id="CH_K">Channel7Ukraine.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Cherniveckiypromin.ua" site_id="CH_K">Cherniveckiypromin.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="ComedyTV.ge" site_id="CH_K">ComedyTV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVAlgorhythm.ee" site_id="CH_K">DanceTVAlgorhythm.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVChillAF.ee" site_id="CH_K">DanceTVChillAF.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVDeepHouseDistrict.ee" site_id="CH_K">DanceTVDeepHouseDistrict.ee</channel>
@@ -77,6 +78,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Formula.ge" site_id="CH_K">Formula.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FREEDOM.ua" site_id="CH_K">FREEDOM.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Futbol.tj" site_id="CH_K">Futbol.tj</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="GDSTV.ge" site_id="CH_K">GDSTV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="GIT.ua" site_id="CH_K">GIT.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IUAtv.ua" site_id="CH_K">IUAtv.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IdmanTV.az" site_id="CH_K">IdmanTV.az</channel>
@@ -146,6 +148,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RUTV.ru" site_id="CH_K">RUTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RT.ru" site_id="CH_K">RT.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RussianMusicBox.ru" site_id="CH_K">RussianMusicBox.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Rustavi2.ge" site_id="CH_K">Rustavi2.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Saryarqa.kz" site_id="CH_K">Saryarqa.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Semei.kz" site_id="CH_K">Semei.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShoppingLive.ru" site_id="CH_K">ShoppingLive.ru</channel>
