@@ -2,19 +2,20 @@
 <channels>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="1TV.ge" site_id="CH_K">1TV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="2TV.ge" site_id="CH_K">2TV.ge</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel5.ru" site_id="CH_K">Channel5.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="2x2.ru" site_id="CH_K">2x2.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="5TV.am" site_id="CH_K">5TV.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="7D7.ee" site_id="CH_K">7D7.ee</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel8Belarus.by" site_id="CH_K">Channel8Belarus.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel11.ua" site_id="CH_K">Channel11.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel12.ru" site_id="CH_K">Channel12.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="24KZ.kz" site_id="CH_K">24KZ.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel24.ua" site_id="CH_K">Channel24.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="31Kanal.kz" site_id="CH_K">31Kanal.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="100NEWS.ua" site_id="CH_K">100NEWS.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="312Kino.kg" site_id="CH_K">312Kino.kg</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="312TV.kg" site_id="CH_K">312TV.kg</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="360.ru" site_id="CH_K">360.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="360News.ru" site_id="CH_K">360News.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="black.ru" site_id="CH_K">black.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="scifi.ru" site_id="CH_K">scifi.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AbaiTV.kz" site_id="CH_K">AbaiTV.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AbazaTV.ru" site_id="CH_K">AbazaTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AlauTV.kz" site_id="CH_K">AlauTV.kz</channel>
@@ -32,9 +33,9 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ARBGunes.az" site_id="CH_K">ARBGunes.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ArkadagTV.tm" site_id="CH_K">ArkadagTV.tm</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Asgabat.tm" site_id="CH_K">Asgabat.tm</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="AtamekenBusiness.kz" site_id="CH_K">AtamekenBusiness.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATR.ua" site_id="CH_K">ATR.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Atyray.kz" site_id="CH_K">Atyray.kz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="AutoPlus.ru" site_id="CH_K">AutoPlus.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Avers.ua" site_id="CH_K">Avers.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AzTV.az" site_id="CH_K">AzTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AzadTV.az" site_id="CH_K">AzadTV.az</channel>
@@ -48,10 +49,16 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BIZTV.uz" site_id="CH_K">BIZTV.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BlackSeaTV.ua" site_id="CH_K">BlackSeaTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Bolajon.uz" site_id="CH_K">Bolajon.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Bolt.ru" site_id="CH_K">Bolt.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGE.ru" site_id="CH_K">BRIDGE.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGEClassic.ru" site_id="CH_K">BRIDGEClassic.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGEDeluxe.ru" site_id="CH_K">BRIDGEDeluxe.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGEHits.ru" site_id="CH_K">BRIDGEHits.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="CarouselInternational.ru" site_id="CH_K">CarouselInternational.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="CBCSport.az" site_id="CH_K">CBCSport.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Channel7Ukraine.ua" site_id="CH_K">Channel7Ukraine.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Cherniveckiypromin.ua" site_id="CH_K">Cherniveckiypromin.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Cinema.ru" site_id="CH_K">Cinema.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ComedyTV.ge" site_id="CH_K">ComedyTV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVAlgorhythm.ee" site_id="CH_K">DanceTVAlgorhythm.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVChillAF.ee" site_id="CH_K">DanceTVChillAF.ee</channel>
@@ -62,45 +69,60 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVMinimalTech.ee" site_id="CH_K">DanceTVMinimalTech.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DanceTVTechnoWarehouse.ee" site_id="CH_K">DanceTVTechnoWarehouse.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DasturxonTV.uz" site_id="CH_K">DasturxonTV.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Dikayaokhota.ru" site_id="CH_K">Dikayaokhota.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Dikayarybalka.ru" site_id="CH_K">Dikayarybalka.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DniproTV.ua" site_id="CH_K">DniproTV.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="DomashnieZhivotnye.ru" site_id="CH_K">DomashnieZhivotnye.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DumskayaTV.ua" site_id="CH_K">DumskayaTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DunyaTV.az" site_id="CH_K">DunyaTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Dunyoboylab.uz" site_id="CH_K">Dunyoboylab.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="DushanbeHD.tj" site_id="CH_K">DushanbeHD.tj</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="EGETV.ru" site_id="CH_K">EGETV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ELTV.az" site_id="CH_K">ELTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ertis.kz" site_id="CH_K">Ertis.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ETV2.ee" site_id="CH_K">ETV2.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ETV.ee" site_id="CH_K">ETV.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ETVPlus.ee" site_id="CH_K">ETVPlus.ee</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Evrokino.ru" site_id="CH_K">Evrokino.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="EWTNUkraine.ua" site_id="CH_K">EWTNUkraine.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FastSports.am" site_id="CH_K">FastSports.am</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="FeniksplusKino.ru" site_id="CH_K">FeniksplusKino.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstBusiness.ua" site_id="CH_K">FirstBusiness.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstChannelNews.am" site_id="CH_K">FirstChannelNews.am</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="FoodTime.ru" site_id="CH_K">FoodTime.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Football.ru" site_id="CH_K">Football.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Formula.ge" site_id="CH_K">Formula.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FREEDOM.ua" site_id="CH_K">FREEDOM.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FTV.uz" site_id="CH_K">FTV.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Futbol.tj" site_id="CH_K">Futbol.tj</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="GDSTV.ge" site_id="CH_K">GDSTV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="GIT.ua" site_id="CH_K">GIT.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="HDL.ru" site_id="CH_K">HDL.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IUAtv.ua" site_id="CH_K">IUAtv.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Inter.ua" site_id="CH_K">Inter.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="IllusionPlus.ru" site_id="CH_K">IllusionPlus.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IlmvaTabiat.tj" site_id="CH_K">IlmvaTabiat.tj</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ImediTV.ge" site_id="CH_K">ImediTV.ge</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="India.ru" site_id="CH_K">India.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="InterPlus.ua" site_id="CH_K">InterPlus.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IT3.ua" site_id="CH_K">IT3.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ITV.ua" site_id="CH_K">ITV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="IzmailTV.ua" site_id="CH_K">IzmailTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Jahonnamo.tj" site_id="CH_K">Jahonnamo.tj</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Jambyl.kz" site_id="CH_K">Jambyl.kz</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="JibekJoly.kz" site_id="CH_K">JibekJoly.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="K1.ua" site_id="CH_K">K1.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="K2.ua" site_id="CH_K">K2.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVDom.ua" site_id="CH_K">TVDom.ua</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Khabar.kz" site_id="CH_K">Khabar.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Khatlon.tj" site_id="CH_K">Khatlon.tj</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="KHLPrime.ru" site_id="CH_K">KHLPrime.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Kineko.ru" site_id="CH_K">Kineko.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kino24.ru" site_id="CH_K">Kino24.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="KinoTV.ru" site_id="CH_K">KinoTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kinoteatr.uz" site_id="CH_K">Kinoteatr.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kokshe.kz" site_id="CH_K">Kokshe.kz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Komedia.ru" site_id="CH_K">Komedia.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Konniymir.ru" site_id="CH_K">Konniymir.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="KTOKUDA.ru" site_id="CH_K">KTOKUDA.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="KulinarHD.ru" site_id="CH_K">KulinarHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Leomax24.ru" site_id="CH_K">Leomax24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LifeTV.ee" site_id="CH_K">LifeTV.ee</channel>
@@ -113,6 +135,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="M1.lt" site_id="CH_K">M1.lt</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Madaniyatvamarifat.uz" site_id="CH_K">Madaniyatvamarifat.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Mahalla.uz" site_id="CH_K">Mahalla.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Mama.ru" site_id="CH_K">Mama.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Mangystay.kz" site_id="CH_K">Mangystay.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MedeniyyetTV.az" site_id="CH_K">MedeniyyetTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MistoPlus.ua" site_id="CH_K">MistoPlus.ua</channel>
@@ -120,16 +143,24 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Miras.tm" site_id="CH_K">Miras.tm</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MosObrTV.ru" site_id="CH_K">MosObrTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MovifyKino.lv" site_id="CH_K">MovifyKino.lv</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="MoyaPlaneta.ru" site_id="CH_K">MoyaPlaneta.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MtavariArkhi.ge" site_id="CH_K">MtavariArkhi.ge</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Mult.ru" site_id="CH_K">Mult.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Multimuzyka.ru" site_id="CH_K">Multimuzyka.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Multilandia.ru" site_id="CH_K">Multilandia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Multimania.lv" site_id="CH_K">Multimania.lv</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Muzhskoy.ru" site_id="CH_K">Muzhskoy.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MuzzOne.kz" site_id="CH_K">MuzzOne.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MY5.uz" site_id="CH_K">MY5.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Navo.uz" site_id="CH_K">Navo.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NextTV.kg" site_id="CH_K">NextTV.kg</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="o2tv.ru" site_id="CH_K">o2tv.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ozbekiston24.uz" site_id="CH_K">Ozbekiston24.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ozbekiston.uz" site_id="CH_K">Ozbekiston.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="OzbekistonTarixi.uz" site_id="CH_K">OzbekistonTarixi.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Okhotairybalka.ru" site_id="CH_K">Okhotairybalka.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ontustik.kz" site_id="CH_K">Ontustik.kz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="OtkritiymirZdorove.ru" site_id="CH_K">OtkritiymirZdorove.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PalitraNews.ge" site_id="CH_K">PalitraNews.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PervyygorodskoyKrivoyRog.ua" site_id="CH_K">PervyygorodskoyKrivoyRog.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Pingviin.ee" site_id="CH_K">Pingviin.ee</channel>
@@ -145,15 +176,18 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Qyzyljar.kz" site_id="CH_K">Qyzyljar.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Qyzylorda.kz" site_id="CH_K">Qyzylorda.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ReTV.lv" site_id="CH_K">ReTV.lv</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="RENTVInternational.ru" site_id="CH_K">RENTVInternational.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RenessansTV.uz" site_id="CH_K">RenessansTV.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RenomeTV.ua" site_id="CH_K">RenomeTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Riigikogu.ee" site_id="CH_K">Riigikogu.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RioniTV.ge" site_id="CH_K">RioniTV.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RTArabic.ru" site_id="CH_K">RTArabic.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RTenEspanol.ru" site_id="CH_K">RTenEspanol.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="RTGTV.ru" site_id="CH_K">RTGTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RUTV.ru" site_id="CH_K">RUTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RT.ru" site_id="CH_K">RT.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RussianMusicBox.ru" site_id="CH_K">RussianMusicBox.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Russkiyroman.ru" site_id="CH_K">Russkiyroman.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Rustavi2.ge" site_id="CH_K">Rustavi2.ge</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Saryarqa.kz" site_id="CH_K">Saryarqa.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Semei.kz" site_id="CH_K">Semei.kz</channel>
@@ -161,17 +195,31 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShoppingLive.ru" site_id="CH_K">ShoppingLive.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SK1.ua" site_id="CH_K">SK1.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Skrypinua.ua" site_id="CH_K">Skrypinua.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="SmaylikTV.ru" site_id="CH_K">SmaylikTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Sochi24.ru" site_id="CH_K">Sochi24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SochiLiveHD.ru" site_id="CH_K">SochiLiveHD.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Solnce.ru" site_id="CH_K">Solnce.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SONGTVArmenia.am" site_id="CH_K">SONGTVArmenia.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SONGTVRussia.ru" site_id="CH_K">SONGTVRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SpaceTV.az" site_id="CH_K">SpaceTV.az</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="StarCinema.ru" site_id="CH_K">StarCinema.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="STARTAir.ru" site_id="CH_K">STARTAir.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="STARTWorld.ru" site_id="CH_K">STARTWorld.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="STSkids.ru" site_id="CH_K">STSkids.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="SuperGeroi.ru" site_id="CH_K">SuperGeroi.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Tojikiston.tj" site_id="CH_K">Tojikiston.tj</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TaynyGalaktiki.ru" site_id="CH_K">TaynyGalaktiki.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TBNBaltia.ee" site_id="CH_K">TBNBaltia.ee</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Teatr.ru" site_id="CH_K">Teatr.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TelekanalRAI.ua" site_id="CH_K">TelekanalRAI.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Teleputeshestviya.ru" site_id="CH_K">Teleputeshestviya.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TERRA.ru" site_id="CH_K">TERRA.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TiJi.ru" site_id="CH_K">TiJi.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TISTV.ua" site_id="CH_K">TISTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TMT.tj" site_id="CH_K">TMT.tj</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT4International.ru" site_id="CH_K">TNT4International.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTInternational.ru" site_id="CH_K">TNTInternational.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Tochkaotryva.ru" site_id="CH_K">Tochkaotryva.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Toshkent.uz" site_id="CH_K">Toshkent.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TRKIldana.ua" site_id="CH_K">TRKIldana.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TRKKrug.ua" site_id="CH_K">TRKKrug.ua</channel>
@@ -197,13 +245,11 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TvoeTV.ru" site_id="CH_K">TvoeTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UniverTV.ru" site_id="CH_K">UniverTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UzReportTV.uz" site_id="CH_K">UzReportTV.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Vgostyakhuskazki.ru" site_id="CH_K">Vgostyakhuskazki.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ViasatKino.ua" site_id="CH_K">ViasatKino.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ViasatKinoAction.ua" site_id="CH_K">ViasatKinoAction.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VidusdaugavasTelevizija.lv" site_id="CH_K">VidusdaugavasTelevizija.lv</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuHistory.ru" site_id="CH_K">vijuHistory.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000.ru" site_id="CH_K">vijuTV1000.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000action.ru" site_id="CH_K">vijuTV1000action.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000russkoe.ru" site_id="CH_K">vijuTV1000russkoe.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusComedy.ru" site_id="CH_K">vijuPlusComedy.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusPremiere.ru" site_id="CH_K">vijuPlusPremiere.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VITATV.ua" site_id="CH_K">VITATV.ua</channel>
@@ -211,11 +257,15 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="XezerTV.az" site_id="CH_K">XezerTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Yaslyk.tm" site_id="CH_K">Yaslyk.tm</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Yoshlar.uz" site_id="CH_K">Yoshlar.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="YuTV.ru" site_id="CH_K">YuTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Z.ua" site_id="CH_K">Z.ua</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="ZagorodnyyInt.ru" site_id="CH_K">ZagorodnyyInt.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="ZhivayaPlaneta.ru" site_id="CH_K">ZhivayaPlaneta.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Zhivayapriroda.ru" site_id="CH_K">Zhivayapriroda.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ZorTV.uz" site_id="CH_K">ZorTV.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Zoopark.ru" site_id="CH_K">Zoopark.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATV.am" site_id="CH_K">ATV.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="AISTTV.ru" site_id="CH_K">AISTTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="AlmatyTV.kz" site_id="CH_K">AlmatyTV.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Aris24.ru" site_id="CH_K">Aris24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Arsenal.ru" site_id="CH_K">Arsenal.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Arkhyz24.ru" site_id="CH_K">Arkhyz24.ru</channel>
@@ -229,7 +279,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Belarus5.by" site_id="CH_K">Belarus5.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Belarus24.by" site_id="CH_K">Belarus24.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Belgorod24.ru" site_id="CH_K">Belgorod24.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="BelMuzTV.by" site_id="CH_K">BelMuzTV.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BelRos.ru" site_id="CH_K">BelRos.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BigAsia.ru" site_id="CH_K">BigAsia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BST.ru" site_id="CH_K">BST.ru</channel>
@@ -277,7 +326,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LanetTV.ua" site_id="CH_K">LanetTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LDPRTV.ru" site_id="CH_K">LDPRTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Legendarnyy24.ru" site_id="CH_K">Legendarnyy24.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="LenTV24.ru" site_id="CH_K">LenTV24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Magnat.ru" site_id="CH_K">Magnat.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MaturTV.ru" site_id="CH_K">MaturTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Millet.ru" site_id="CH_K">Millet.ru</channel>
@@ -294,7 +342,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="HopeChannelRussia.ru" site_id="CH_K">HopeChannelRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="HopeChannelUkraine.ua" site_id="CH_K">HopeChannelUkraine.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Nauka.ru" site_id="CH_K">Nauka.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="NasheTV.by" site_id="CH_K">NasheTV.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NVKSakha.ru" site_id="CH_K">NVKSakha.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UnknownRussia.ru" site_id="CH_K">UnknownRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NizhniyNovgorod24.ru" site_id="CH_K">NizhniyNovgorod24.ru</channel>
@@ -305,13 +352,11 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVSeries.ru" site_id="CH_K">NTVSeries.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVStyle.ru" site_id="CH_K">NTVStyle.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVHit.ru" site_id="CH_K">NTVHit.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="NTVBelarus.by" site_id="CH_K">NTVBelarus.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTKTV.ua" site_id="CH_K">NTKTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTM.ru" site_id="CH_K">NTM.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTN.ua" site_id="CH_K">NTN.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTS.ru" site_id="CH_K">NTS.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ObshchestvennoeNezavisimoeTelevidenie.ua" site_id="CH_K">ObshchestvennoeNezavisimoeTelevidenie.ua</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="OTR.ru" site_id="CH_K">OTR.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ONT.by" site_id="CH_K">ONT.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="OrbitaTV.ua" site_id="CH_K">OrbitaTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="OsetiyaIryston.ru" site_id="CH_K">OsetiyaIryston.ru</channel>
@@ -321,7 +366,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PervyygorodskoyOdessa.ua" site_id="CH_K">PervyygorodskoyOdessa.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PerviyInformationniy.by" site_id="CH_K">PerviyInformationniy.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ChannelOne.ru" site_id="CH_K">ChannelOne.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="ChannelOneEurasia.kz" site_id="CH_K">ChannelOneEurasia.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstMusicChannel.by" site_id="CH_K">FirstMusicChannel.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstMusicChannelRussia.by" site_id="CH_K">FirstMusicChannelRussia.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PeretzInternational.ru" site_id="CH_K">PeretzInternational.ru</channel>
@@ -332,7 +376,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Prima.ru" site_id="CH_K">Prima.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Prodvizhenie.ru" site_id="CH_K">Prodvizhenie.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Prosveshchenie.ru" site_id="CH_K">Prosveshchenie.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Friday.ru" site_id="CH_K">Friday.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FridayInternational.ru" site_id="CH_K">FridayInternational.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="GovoritMoskva.ru" site_id="CH_K">GovoritMoskva.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RadioHit.ru" site_id="CH_K">RadioHit.ru</channel>
@@ -340,7 +383,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RadostMoya.ru" site_id="CH_K">RadostMoya.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ratnik.ru" site_id="CH_K">Ratnik.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RBKTV.ru" site_id="CH_K">RBKTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="RENTV.ru" site_id="CH_K">RENTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="RZDTV.ru" site_id="CH_K">RZDTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Russia24.ru" site_id="CH_K">Russia24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Russia1.ru" site_id="CH_K">Russia1.ru</channel>
@@ -363,11 +405,9 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="StranaFM.ru" site_id="CH_K">StranaFM.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="STS.ru" site_id="CH_K">STS.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="STSLove.ru" site_id="CH_K">STSLove.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Subbota.ru" site_id="CH_K">Subbota.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Surgut24.ru" site_id="CH_K">Surgut24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SferaTV.ua" site_id="CH_K">SferaTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Tamyr.ru" site_id="CH_K">Tamyr.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="TV3.ru" site_id="CH_K">TV3.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVA.ua" site_id="CH_K">TVA.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TVK.ru" site_id="CH_K">TVK.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TvoyeTVYumor.ru" site_id="CH_K">TvoyeTVYumor.ru</channel>
@@ -400,7 +440,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="HuzurTV.ru" site_id="CH_K">HuzurTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TsentrKrasnoyarsk.ru" site_id="CH_K">TsentrKrasnoyarsk.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NTV.ru" site_id="CH_K">NTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Che.ru" site_id="CH_K">Che.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ChPinfo.ua" site_id="CH_K">ChPinfo.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShansonTV.ru" site_id="CH_K">ShansonTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShayanTV.ru" site_id="CH_K">ShayanTV.ru</channel>
