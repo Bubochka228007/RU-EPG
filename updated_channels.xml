@@ -162,6 +162,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ontustik.kz" site_id="CH_K">Ontustik.kz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="OtkritiymirZdorove.ru" site_id="CH_K">OtkritiymirZdorove.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PalitraNews.ge" site_id="CH_K">PalitraNews.ge</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="PershiyXTVMedia.ua" site_id="CH_K">PershiyXTVMedia.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PervyygorodskoyKrivoyRog.ua" site_id="CH_K">PervyygorodskoyKrivoyRog.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Pingviin.ee" site_id="CH_K">Pingviin.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Pingviins.lv" site_id="CH_K">Pingviins.lv</channel>
@@ -250,10 +251,7 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ViasatKinoAction.ua" site_id="CH_K">ViasatKinoAction.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VidusdaugavasTelevizija.lv" site_id="CH_K">VidusdaugavasTelevizija.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuTV1000action.ru" site_id="CH_K">vijuTV1000action.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusComedy.ru" site_id="CH_K">vijuPlusComedy.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="vijuPlusPremiere.ru" site_id="CH_K">vijuPlusPremiere.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="VITATV.ua" site_id="CH_K">VITATV.ua</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="VIVARussia.ru" site_id="CH_K">VIVARussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="XezerTV.az" site_id="CH_K">XezerTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Yaslyk.tm" site_id="CH_K">Yaslyk.tm</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Yoshlar.uz" site_id="CH_K">Yoshlar.uz</channel>
@@ -368,7 +366,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ChannelOne.ru" site_id="CH_K">ChannelOne.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstMusicChannel.by" site_id="CH_K">FirstMusicChannel.by</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="FirstMusicChannelRussia.by" site_id="CH_K">FirstMusicChannelRussia.by</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="PeretzInternational.ru" site_id="CH_K">PeretzInternational.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Pobeda.ru" site_id="CH_K">Pobeda.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Poehali.ru" site_id="CH_K">Poehali.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="PravdaTUT.ua" site_id="CH_K">PravdaTUT.ua</channel>
@@ -457,7 +454,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="YerkirMedia.am" site_id="CH_K">YerkirMedia.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATVTavaTV.am" site_id="CH_K">ATVTavaTV.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATVKhaghaliqTV.am" site_id="CH_K">ATVKhaghaliqTV.am</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="KentronTV.am" site_id="CH_K">KentronTV.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATVKinoman.am" site_id="CH_K">ATVKinoman.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Armenia2.am" site_id="CH_K">Armenia2.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ATVHayTV.am" site_id="CH_K">ATVHayTV.am</channel>
