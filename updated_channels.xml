@@ -80,8 +80,8 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="EGETV.ru" site_id="CH_K">EGETV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ELTV.az" site_id="CH_K">ELTV.az</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ertis.kz" site_id="CH_K">Ertis.kz</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="ETV2.ee" site_id="CH_K">ETV2.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ETV.ee" site_id="CH_K">ETV.ee</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="ETV2.ee" site_id="CH_K">ETV2.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ETVPlus.ee" site_id="CH_K">ETVPlus.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="EuropaPlusTV.ru" site_id="CH_K">EuropaPlusTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="EWTNUkraine.ua" site_id="CH_K">EWTNUkraine.ua</channel>
@@ -157,8 +157,8 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NextTV.kg" site_id="CH_K">NextTV.kg</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="NST.ru" site_id="CH_K">NST.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="O.ru" site_id="CH_K">O.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Ozbekiston24.uz" site_id="CH_K">Ozbekiston24.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ozbekiston.uz" site_id="CH_K">Ozbekiston.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Ozbekiston24.uz" site_id="CH_K">Ozbekiston24.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="OzbekistonTarixi.uz" site_id="CH_K">OzbekistonTarixi.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Okhotairybalka.ru" site_id="CH_K">Okhotairybalka.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Ontustik.kz" site_id="CH_K">Ontustik.kz</channel>
@@ -335,8 +335,8 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Magnat.ru" site_id="CH_K">Magnat.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MaturTV.ru" site_id="CH_K">MaturTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Millet.ru" site_id="CH_K">Millet.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Mir24.ru" site_id="CH_K">Mir24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Mir.ru" site_id="CH_K">Mir.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="Mir24.ru" site_id="CH_K">Mir24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MirBelogorya.ru" site_id="CH_K">MirBelogorya.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Moskva24.ru" site_id="CH_K">Moskva24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="MTV.ru" site_id="CH_K">MTV.ru</channel>
@@ -423,8 +423,8 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Almaznyykray.ru" site_id="CH_K">Almaznyykray.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TKR.ru" site_id="CH_K">TKR.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNVPlanet.ru" site_id="CH_K">TNVPlanet.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT4.ru" site_id="CH_K">TNT4.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT.ru" site_id="CH_K">TNT.ru</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT4.ru" site_id="CH_K">TNT4.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTMusic.ru" site_id="CH_K">TNTMusic.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TolkHD.ru" site_id="CH_K">TolkHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TochkaTV.ru" site_id="CH_K">TochkaTV.ru</channel>
