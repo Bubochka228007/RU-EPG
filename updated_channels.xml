@@ -105,7 +105,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="KinoTV.ru" site_id="CH_K">KinoTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kinoteatr.uz" site_id="CH_K">Kinoteatr.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Kokshe.kz" site_id="CH_K">Kokshe.kz</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="KulinarHD.ru" site_id="CH_K">KulinarHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Leomax24.ru" site_id="CH_K">Leomax24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LifeTV.ee" site_id="CH_K">LifeTV.ee</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="LRTKlasika.lt" site_id="CH_K">LRTKlasika.lt</channel>
@@ -165,7 +164,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SK1.ua" site_id="CH_K">SK1.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Skrypinua.ua" site_id="CH_K">Skrypinua.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Sochi24.ru" site_id="CH_K">Sochi24.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="SochiLiveHD.ru" site_id="CH_K">SochiLiveHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SONGTVArmenia.am" site_id="CH_K">SONGTVArmenia.am</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SONGTVRussia.ru" site_id="CH_K">SONGTVRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SpaceTV.az" site_id="CH_K">SpaceTV.az</channel>
@@ -386,7 +384,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNVPlanet.ru" site_id="CH_K">TNVPlanet.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNT.ru" site_id="CH_K">TNT.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TNTMusic.ru" site_id="CH_K">TNTMusic.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="TolkHD.ru" site_id="CH_K">TolkHD.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="3ABNRussia.ru" site_id="CH_K">3ABNRussia.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TRKAleks.ua" site_id="CH_K">TRKAleks.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="TUSO.ua" site_id="CH_K">TUSO.ua</channel>
@@ -411,5 +408,4 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="YuTV.ru" site_id="CH_K">YuTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Yuvelirochka.ru" site_id="CH_K">Yuvelirochka.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="UgraTV.ru" site_id="CH_K">UgraTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Armenia1.am" site_id="CH_K">Armenia1.am</channel>
 </channels>
