@@ -43,7 +43,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BIZTV.uz" site_id="CH_K">BIZTV.uz</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BlackSeaTV.ua" site_id="CH_K">BlackSeaTV.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Bolajon.uz" site_id="CH_K">Bolajon.uz</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Bolt.ru" site_id="CH_K">Bolt.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGE.ru" site_id="CH_K">BRIDGE.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGEClassic.ru" site_id="CH_K">BRIDGEClassic.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="BRIDGEDeluxe.ru" site_id="CH_K">BRIDGEDeluxe.ru</channel>
@@ -371,7 +370,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Samara24.ru" site_id="CH_K">Samara24.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SamaraGIS.ru" site_id="CH_K">SamaraGIS.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SanktPeterburg.ru" site_id="CH_K">SanktPeterburg.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="Sarafan.ru" site_id="CH_K">Sarafan.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Svarozhychy.ua" site_id="CH_K">Svarozhychy.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="SvoyoTV.ru" site_id="CH_K">SvoyoTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Sever.ru" site_id="CH_K">Sever.ru</channel>
@@ -447,7 +445,6 @@
   <channel site="tv.yandex.ru" lang="en" xmltv_id="HersonPlyus.ua" site_id="CH_K">HersonPlyus.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="Gribuvisuzinat.lv" site_id="CH_K">Gribuvisuzinat.lv</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="HuzurTV.ru" site_id="CH_K">HuzurTV.ru</channel>
-  <channel site="tv.yandex.ru" lang="en" xmltv_id="TsentrKrasnoyarsk.ru" site_id="CH_K">TsentrKrasnoyarsk.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ChPinfo.ua" site_id="CH_K">ChPinfo.ua</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShansonTV.ru" site_id="CH_K">ShansonTV.ru</channel>
   <channel site="tv.yandex.ru" lang="en" xmltv_id="ShayanTV.ru" site_id="CH_K">ShayanTV.ru</channel>
