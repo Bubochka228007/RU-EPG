@@ -1,2 +1,6 @@
 <?xml version="1.0" ?>
-<channels/>
+<channels>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BIZCinema.uz" site_id="CH_K">BIZCinema.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BIZMusic.uz" site_id="CH_K">BIZMusic.uz</channel>
+  <channel site="tv.yandex.ru" lang="en" xmltv_id="BIZTV.uz" site_id="CH_K">BIZTV.uz</channel>
+</channels>
